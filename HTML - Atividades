@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" href="css/estilo2.css">
+    <title>Atividades Realizadas</title>
+</head>
+<body>
+    <header>
+        <h1> Atividades Realizadas </h1>
+    </header>
+    <main>
+        <aside>
+            <h2>Atividades Realizadas</h2>
+            <p> Inserir Texto aqui.
+            </p>
+        </aside>
+        <aside>
+            <h2>Evolução dos alunos</h2>
+            <p> Inserir Texto aqui.
+            </p>
+        </aside>
+        <aside>
+            <h2>Feedbacks</h2>
+            <p> Inserir Texto aqui.
+            </p>
+        </aside>
+    </main>
+</body>
+</html>
