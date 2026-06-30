@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="participantes.css">
+    <title>Componentes do NAPNE</title>
+</head>
+<body>
+<header>
+    <section>
+        <h1>Quem compõem o NAPNE?</h1>
+    </section>
+</header>
+<main>
+    <div class="container">
+        <section class="card">
+            <h2>Participantes do NAPNE:</h2>
+            <p>
+                O NAPNE, nos campi, deve ser composto por uma equipe multiprofissional formada por:
+            </p>
+            <ul>
+                <li>Servidores docentes e técnico-administrativos do campus;</li>
+                <li>Pesquisadores;</li>
+                <li>Discentes;</li>
+                <li>Familiares.</li>
+            </ul>
+        </section>
+        <section class="card">
+            <h3>Quem é o público do NAPNE?</h3>
+            <p>
+                O público do NAPNE é o mesmo público definido pela política de Educação Especial e Inclusiva do IFPI.
+                São estudantes com:
+            </p>
+            <ul>
+                <li>Deficiência;</li>
+                <li>Transtorno do Espectro Autista (TEA);</li>
+                <li>Altas habilidades/superdotação;</li>
+                <li>Transtornos específicos relacionados à aprendizagem:
+                    dislexia, discalculia, dislalia, transtorno do déficit de atenção e hiperatividade (TDAH).</li>
+            </ul>
+        </section>
+    </div>
+</main>
+<footer>
+    <a href="../introdução.html">Volte para o início</a>
+    <section>
+        <h6>Contato</h6>
+        <p>napne@ifpi.edu.br</p>
+    </section>
+
+    <section>
+        <h6>Endereço</h6>
+        <p>IFPI - Campus Piripiri</p>
+    </section>
+</footer>
+</body>
+</html>
