@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="guia.css">
+    <title>Guia sobre deficiência</title>
+</head>
+<body>
+    <header>
+        <section>
+            <h1>Um guia sobre as deficiências</h1>
+        </section>
+    </header>
+    <main>
+        <section>
+            <h2>O QUE É DEFICIÊNCIA?</h2>
+            <p>
+                De acordo com a Lei n° 13.146, de julho de 2015, considera-se pessoa com deficiência aquela que tem
+                impedimento de longo prazo de natureza física, mental, intelectual ou sensorial, o qual, em interação
+                com uma ou mais barreiras, pode obstruir sua participação plena e efetiva na sociedade em igualdade de
+                condições com as demais pessoas (Brasil, 2015). Os tipos de deficiência se enquadram nas seguintes
+                características:
+            </p>
+            <nav>
+                <ul>
+                    <li>
+                        <strong>Deficiência Física:</strong>
+                        <p>Alteração completa ou parcial de um ou mais segmentos do copor humano, acarretando o
+                        comprometimento da função física, apresentando-se sob a forma de paraplegia, paraparesia,
+                        monoplegia, monoparesia, tetraplegia, tetraparesia, tripelegia, triparesia, hemiplegia,
+                        hemiparesia, ostomia, amputação ou ausência de menbro, paralisia cerebral, nanismo, membros com
+                        deformidade congênita ou adquirida, exceto as deformidades estéticas e as que não produzam
+                        dificuldades para o desempenho de funções.</p>
+                    </li>
+                    <li>
+                        <strong>Deficiência auditiva/surdez:</strong>
+                        <p>
+                            <strong>Deficiência Auditiva:</strong>
+                            é a limitação de longo prazo de audição, unilateral total ou bilateral parcial ou total, a
+                            qual, em interação com umas ou mais barreiras, obstrui a participação plena e efetiva de
+                            pessoa na sociedade, em igualdade de condições com as demais pessoas.
+                        </p>
+                        <p>
+                            <strong>Surdez:</strong>
+                            é o termo usado por pesoas que, por terem oerda auditica, compreendem e interagem com o
+                            mundo por meio de experiências visuais, manifestando sua cultura principalmente com o uso
+                            da Língua Brasileria de Sinais - Libras.
+                        </p>
+                    </li>
+                    <li>
+                        <strong>Deficiência Visual:</strong>
+                        <p>
+                            A deficiência visual é definida como a perda total ou parcial, congênita ou adquirida, da
+                            visão, mesmo após tratamento ou correção com óculos convencionais. O nível de acuidade
+                            visual pode variar, de acordo com a classificação abaixo:
+                        </p>
+                        <ul>
+                            <li>Cegueira: acuidade visual igual ou menor que 0,05 (20/400) no melhor olho, mesmo com correção óptica;</li>
+                            <li>Baixa Visão: acuidade visual entre 0,3 (20/60) e 0,05 (20/400) no melhor olho, mesmo com correção;</li>
+                            <li>Visão Monocular: visão normal em um olho e acuidade visual igual ou menor que 0,05 no outro olho;</li>
+                            <li>Redução do Campo de Visão: soma do campo visual em ambos os olhos igual ou inferior a 60°;</li>
+                            <li>Condições Combinadas: a ocorrência simultânea de duas ou mais das condições acima;</li>
+                        </ul>
+                    </li>
+                    <li>
+                        <strong>Deficiência Intelectual:</strong>
+                        <p>
+                            A Deficiência Intelectual (DI) é uma condição de desenvolvimento caracterizada por
+                            limitações significativas no funcionamento intelectual (ex.: dificuldades em raciocínio,
+                            resolução de problemas e aprendizagem) e dificuldades no comportamento adaptativo
+                            (habilidades sociais, comunicação, autocuidado e vida independente). É manifetsada antes
+                            dos 18 anos (Não é uma doença, mas uma condição de desenvolvimento).
+                        </p>
+                    </li>
+                    <li>
+                        <strong>Transtorno do Espectro Autista - TEA:</strong>
+                        <p>O TEA é uma condição caracterizada pela alteração das funções do neurodesenvolvimento do indivíduo,
+                            interferindo na capacidade de comunicação, linguagem, interação social e comportamento.
+                            Segundo o Manual Diafnóstico e Estatístico de Transtorno Mentais - DSM - 5 associação Americana de Psiquiatria, 2014) e a 
+                            Lei N° 12.764/12 (Brasil, 2012), pessoas que se enquadram dentro do espectro autista podem apresentar:</p>
+                            <ul>
+                                <li>Comprometimento da interação social com dificuldades em desenvolver e manter reciprocidade socioemocional;</li>
+                                <li>Comportamentos motores ou verbais estereotipados e hipersensibilidade sensorial;</li>
+                                <li>Dificuldades na comunicação social por meio das linguagens verbal ou não verbal;</li>
+                                <li>Desenvolvimento de hiperfoco em obejtos específicos e interesses restritos;</li>
+                                <li>Excessiva aderência a rotinas e padrões de comportamneto ritualizados.</li>
+                            </ul>
+                    </li>
+                    <li>
+                        <strong>Dislexia:</strong>
+                        <p>A dislexia é um transtorno específico de aprendizagem, identificado como um transtorno de neurodesenvolvimento caracterizado
+                            pela dificuldade no reconhecimento e na decodificação das palavras. Segundo a International Dyslexia Association (IDA, 2017)
+                            as causas são de origem neurológica e hereditária. Entre as características que o aluno apresenta estão das dificuldades no
+                            reconhecimento e na decodificação de sons e letras, de ortografia, de cálculo e de raciocínio.
+                        </p>
+                        <p>O DSM V aponta alguns critérios para diagnóstico, tais como persistência das dficuldades mesmo após intervenções específicas,
+                            rendimento escolar abaixo do esperado considerando a relação idade/série e manifestação do transtorno nos primeiro anos escolares.
+                        </p>
+                    </li>
+                    <li>
+                        <strong>Transtorno de déficit de antenção e hiperatividade - TDAH:</strong>
+                        <p>O Transtorno do Déficit de Atenção e Hiperatividade (TDAH) é um transtorno do neurodesenvolvimento que afeta prejucicialmente a 
+                            atenção, o controle dos impulsos e o nível de atividae e organização de uma pessoa. Na escola, esses alunos podem ter dificuldade 
+                            de permanecer em uma tarefa, aparentam não ouvir, são resistentes aos comandos dos professores, como, por exemplo, sentar e fazer 
+                            silêncio e tendem a ser inquietos e impulsivos, até memso intrometendo-se em tarefas ou assuntos de outros reiteradamente (DSM-V).
+                        </p>
+                        <p>As características presentes no aluno que possui TDAH são frequentemente confudidas com "falta de disciplina" - mas não é o caso! Não 
+                            há consenso sobre as causas do TDAH, mas sabe-se que ele possui fatores genéticos, biológicos e ambientais (Barkley, 2016).
+                        </p></p>
+                    </li>
+                </ul>
+            </nav>
+        </section>
+    </main>
+    <footer>
+        <a href="../introdução.html">Volte para o início</a>
+        <section>
+            <h6>Contato</h6>
+            <p>napne@ifpi.edu.br</p>
+        </section>
+        <section>
+            <h6>Endereço</h6>
+            <p>IFPI - Campus Piripiri</p>
+        </section>
+    </footer>
+</body>
+</html>
