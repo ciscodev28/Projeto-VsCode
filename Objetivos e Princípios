@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="objetivos.css">
+    <title>Princípios do NAPNE</title>
+</head>
+<body>
+    <header>
+        <section>
+            <h1>Um guia sobre os principais princípios pelos quais o NAPNE luta</h1>
+    </header>
+    <main>
+        <h2>
+            A equipe do NAPNE desenvolve suas ações com base em alguns princípios
+            alinhados à legislação vigente sobre educação inclusiva. São eles:
+        </h2>
+            <nav>
+                <ul>
+                    <li>
+                        <strong>Garantia do acesso à Educação de qualidade para todos:</strong>
+                        Assegurar que todas as pessoas tenham oportunidades iguais de aprender,
+                        com ensino acessível e eficiente.
+                    </li>
+                    <br>
+                    <li>
+                        <strong>Respeito às diferenças:</strong>
+                        Valorizar as características, culturas, opiniões e necessidades
+                        de cada indivíduo.
+                    </li>
+                    <br>
+                    <li>
+                        <strong>Autonomia dos discentes com deficiência:</strong>
+                        Incentivar a independência, participação e tomada de decisões
+                        dos estudantes com deficiência.
+                    </li>
+                    <br>
+                    <li>
+                        <strong>Educação para cidadania, diversidade e convivência:</strong>
+                        Formar cidadãos conscientes, respeitosos e preparados para viver
+                        em sociedade.
+                    </li>
+                    <br>
+                    <li>
+                        <strong>Cultura inclusiva:</strong>
+                        Promover ambientes acolhedores, onde todos se sintam pertencentes
+                        e respeitados.
+                    </li>
+                    <br>
+                    <li>
+                        <strong>Trabalho colaborativo:</strong>
+                        Estimular a cooperação entre alunos, professores, famílias
+                        e comunidade.
+                    </li>
+                    <br>
+                    <li>
+                        <strong>Acessibilidade para todos:</strong>
+                        Garantir condições físicas, comunicacionais e pedagógicas
+                        que permitam a participação plena de todos.
+                    </li>
+                </ul>
+            </nav>
+        </section>
+    </main>
+    <main>
+        <section>
+        <h2>Objetivos do NAPNE:</h2>
+        <nav>
+            <ul>
+                <li>
+                    Disseminar a cultura da inclusão no âmbito do IFPI por meio do
+                    respeito às diferenças, contribuindo para a quebra de barreiras
+                    físicas, atitudinais, metodológicas, instrumentais e comunicacionais.
+                    </li>
+                    <br>
+                    <li>
+                        Colaborar com a Direção-Geral do campus na elaboração,
+                        supervisão e desenvolvimento das políticas de acesso,
+                        permanência e conclusão com êxito dos alunos com
+                        necessidades específicas.
+                    </li>
+                    <br>
+                    <li>
+                        Participar das políticas de ensino, pesquisa, extensão e gestão
+                        para compor o planejamento da instituição, de modo a atender
+                        as pessoas com necessidades educacionais específicas.
+                    </li>
+                    <br>
+                    <li>
+                        Avaliar e propor diretrizes e metas a serem alcançadas
+                        na proposta de inclusão.
+                    </li>
+                    <br>
+                    <li>
+                        Elaborar, em conjunto com os docentes e a equipe pedagógica
+                        dos campi, programas de atendimento aos alunos com necessidades
+                        específicas e auxiliar os professores a adequarem suas aulas
+                        conforme o programa definido.
+                    </li>
+                </ul>
+            </nav>
+        </section>
+        </main>
+        <footer>
+            <a href="../introdução.html">Volte para o início</a>
+            <section>
+            <h6>Contato</h6>
+            <p>napne@ifpi.edu.br</p>
+        </section>
+
+        <section>
+            <h6>Endereço</h6>
+            <p>IFPI - Campus Piripiri</p>
+        </section>
+        </footer>
+</body>
+</html>
